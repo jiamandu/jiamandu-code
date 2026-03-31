@@ -1,1 +1,2 @@
-© Anthropic PBC. All rights reserved. Use is subject to the Legal Agreements outlined here: https://code.claude.com/docs/en/legal-and-compliance.
+Forked from https://github.com/instructkr/claude-code.  
+Claude Code source is based on a leaked version — use at your own risk. Not affiliated with Anthropic.
